@@ -12,7 +12,7 @@ Site de conscientização sobre o combate à dengue em Tatuí - SP, com visual d
 - **Objetivo:** Ensinar a eliminar criadouros do mosquito, reconhecer sintomas da dengue e saber a quem recorrer.
 - **Público:** Moradores de Tatuí, de diferentes idades.
 - **ODS relacionado:** 03 - Saúde e bem-estar.
-- **Local de aplicação:** Centro da cidade de Tatuí - SP.
+- **Local de aplicação:** Bairro Vila Esperança da cidade de Tatuí - SP.
 
 ## Funcionalidades
 
